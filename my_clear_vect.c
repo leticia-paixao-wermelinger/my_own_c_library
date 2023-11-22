@@ -8,5 +8,6 @@ char	**my_clear_vect(char **vect, int size)
 		free(vect[size]);
 		size--;
 	}
+	free(vect);
 	return (NULL);
 }
