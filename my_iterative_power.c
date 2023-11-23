@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int	my_iterative_power(int nb, int power)
 {
 	int	result;
@@ -17,6 +15,8 @@ int	my_iterative_power(int nb, int power)
 	return (result);
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	printf("%i\n", my_iterative_power(5, 5));

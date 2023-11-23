@@ -1,4 +1,3 @@
-
 int	my_atoi(const char *nptr)
 {
 	int	sign;

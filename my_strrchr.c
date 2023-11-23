@@ -1,4 +1,3 @@
-
 #include "libft.h"
 
 char	*my_strrchr(const char *s, int c)

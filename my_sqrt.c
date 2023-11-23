@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int	my_sqrt(int nb)
 {
 	long int	x;
@@ -15,6 +13,7 @@ int	my_sqrt(int nb)
 }
 /*
 #include <limits.h>
+#include <stdio.h>
 
 int	main()
 {

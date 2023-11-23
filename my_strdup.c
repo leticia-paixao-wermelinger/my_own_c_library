@@ -1,4 +1,3 @@
-
 #include "libft.h" 
 
 static char	*my_own_strcpy(char *dst, const char *src)

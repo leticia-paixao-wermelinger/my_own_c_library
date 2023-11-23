@@ -1,4 +1,3 @@
-
 #include <stdlib.h>
 
 int	my_ultimate_range(int **range, int min, int max)

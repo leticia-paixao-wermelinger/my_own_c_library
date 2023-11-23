@@ -1,4 +1,3 @@
-
 #include "libft.h"
 
 void	my_putstr_fd(char *s, int fd)

@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int	my_str_is_numeric(char *str)
 {
 	int		count;
@@ -24,6 +22,8 @@ int	my_str_is_numeric(char *str)
 	return (print);
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	char	str_numbers[] = "42 Rio";

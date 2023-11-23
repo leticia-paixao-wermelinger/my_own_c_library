@@ -1,4 +1,3 @@
-
 #include "libft.h"
 
 char	**my_clear_vect(char **vect, int size)

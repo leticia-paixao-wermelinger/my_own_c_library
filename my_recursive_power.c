@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 static void	aux(int n, int p, int *r)
 {
 	*r = *r * n;
@@ -20,6 +18,8 @@ int	my_recursive_power(int nb, int power)
 	return (result);
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	printf("%i\n", my_recursive_power(2, 4));

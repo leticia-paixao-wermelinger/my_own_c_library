@@ -1,4 +1,3 @@
-
 int	my_isalpha(int c)
 {
 	if ((c >= 65 && c <= 122) && (!(c >= 91 && c <= 96)))

@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int	my_recursive_factorial(int nb)
 {
 	if (nb == 0)
@@ -11,6 +9,8 @@ int	my_recursive_factorial(int nb)
 	return (1);
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	int	number;

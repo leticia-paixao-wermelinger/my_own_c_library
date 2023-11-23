@@ -1,4 +1,3 @@
-
 #include "libft.h" 
 
 size_t	my_strlen(const char *s)

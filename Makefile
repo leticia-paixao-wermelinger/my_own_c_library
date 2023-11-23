@@ -30,6 +30,7 @@ my_memmove.c \
 my_memset.c \
 my_print_alphabet.c \
 my_print_comb.c \
+my_print_comb2.c \
 my_print_numbers.c \
 my_print_reverse_alphabet.c \
 my_putchar.c \
@@ -42,6 +43,8 @@ my_putstr.c \
 my_putstr_fd.c \
 my_recursive_factorial.c \
 my_recursive_power.c \
+my_rev_int_tab.c \
+my_sort_int_tab.c \
 my_split.c \
 my_sqrt.c \
 my_strcapitalize.c \

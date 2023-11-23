@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int	my_fibonacci(int index)
 {
 	if (index < 0)
@@ -11,6 +9,8 @@ int	my_fibonacci(int index)
 	return ((my_fibonacci(index - 1)) + (my_fibonacci(index - 2)));
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	printf("%i\n", my_iterative_power(5, 5));

@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int	my_str_is_uppercase(char *str)
 {
 	int		count;
@@ -24,6 +22,8 @@ int	my_str_is_uppercase(char *str)
 	return (print);
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	char    str_numbers[] = "Rio de Janeiro";

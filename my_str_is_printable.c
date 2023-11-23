@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int	my_str_is_printable(char *str)
 {
 	int		i;
@@ -24,6 +22,8 @@ int	my_str_is_printable(char *str)
 	return (print);
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	char    str[] = "Rio de \n Janeiro";

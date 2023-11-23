@@ -1,4 +1,3 @@
-
 int	my_isdigit(int c)
 {
 	if (c >= 48 && c <= 57)

@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 char	*my_strupcase(char *str)
 {
 	int		i;
@@ -16,6 +14,8 @@ char	*my_strupcase(char *str)
 	return (str);
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	char	str1[] = "Don't Panic!";

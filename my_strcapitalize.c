@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 char	*my_strcapitalize(char *str)
 {
 	int		i;
@@ -27,6 +25,8 @@ char	*my_strcapitalize(char *str)
 	return (str);
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	char	string[] = "oi, tudo bem? 42Palavras quarenta-e-duas; conquenta+e+um";

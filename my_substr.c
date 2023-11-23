@@ -1,4 +1,3 @@
-
 #include "libft.h"
 
 static unsigned int	my_own_strlen(char const *s)

@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 void	my_ultimate_div_mod(int *a, int *b)
 {
 	int	temp_d;
@@ -11,6 +9,8 @@ void	my_ultimate_div_mod(int *a, int *b)
 	*b = temp_r;
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	int	vala, valb;

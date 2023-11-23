@@ -1,4 +1,3 @@
-
 #include "libft.h"
 
 void	*my_memcpy(void *dest, const void *src, size_t n)

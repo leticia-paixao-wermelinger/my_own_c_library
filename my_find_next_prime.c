@@ -1,12 +1,10 @@
-#include <stdio.h>
-
 int	my_find_next_prime(int nb)
 {
 	long int	x;
 
 	x = 1;
-	if (nb <= 1) // Poderia ser menor ou igual a 2
-		return (0); // Deveria ser return 2, eu esqueci de trocar quando copiei da questão anterior
+	if (nb <= 2)
+		return (2);
 	if (nb == 2147483647)
 		return (2147483647);
 	while (x <= 1073741823 && x <= nb)
@@ -21,6 +19,7 @@ int	my_find_next_prime(int nb)
 }
 /*
 #include <limits.h>
+#include <stdio.h>
    
 int     main()
 {       

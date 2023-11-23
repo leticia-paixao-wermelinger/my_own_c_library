@@ -1,4 +1,3 @@
-
 #include "libft.h"
 
 static int	my_own_putchar(char n);

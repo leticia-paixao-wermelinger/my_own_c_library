@@ -1,11 +1,11 @@
-#include <stdio.h>
-
 void	my_div_mod(int a, int b, int *div, int *mod)
 {
 	*div = a / b;
 	*mod = a % b;
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	int	*div2, *mod2, a, b, dresult, mresult;

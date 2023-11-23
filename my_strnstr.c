@@ -1,4 +1,3 @@
-
 #include "libft.h"
 
 char	*my_strnstr(const char *big, const char *little, size_t len)

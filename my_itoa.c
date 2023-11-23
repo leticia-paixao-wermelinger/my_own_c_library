@@ -1,4 +1,3 @@
-
 #include "libft.h"
 
 static int	nb_length(int nb);

@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int	my_is_prime(int nb)
 {
 	long int	x;
@@ -23,6 +21,7 @@ int	my_is_prime(int nb)
 }
 /*
 #include <limits.h>
+#include <stdio.h>
 
 int	main()
 {

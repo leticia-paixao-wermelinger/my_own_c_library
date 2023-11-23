@@ -1,4 +1,3 @@
-
 #include "libft.h"
 
 void	my_putendl_fd(char *s, int fd)

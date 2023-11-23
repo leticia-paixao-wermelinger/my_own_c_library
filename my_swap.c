@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 void	my_swap(int *a, int *b)
 {
 	int	temp;
@@ -9,6 +7,8 @@ void	my_swap(int *a, int *b)
 	*b = temp;
 }
 /*
+#include <stdio.h>
+
 int	main()
 {
 	int	n1;
