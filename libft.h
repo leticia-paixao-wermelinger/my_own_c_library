@@ -43,6 +43,7 @@ void	my_putstr_fd(char *s, int fd);
 int		my_recursive_factorial(int nb);
 int		my_recursive_power(int nb, int power);
 void	my_rev_int_tab(int *tab, int size);
+char	*my_rev_print(char *str);
 void	my_sort_int_tab(int *tab, int size);
 char	**my_split(char const *s, char c);
 int		my_sqrt(int nb);

@@ -44,6 +44,7 @@ my_putstr_fd.c \
 my_recursive_factorial.c \
 my_recursive_power.c \
 my_rev_int_tab.c \
+my_rev_print.c \
 my_sort_int_tab.c \
 my_split.c \
 my_sqrt.c \
